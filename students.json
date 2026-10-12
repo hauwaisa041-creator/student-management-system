@@ -1,0 +1,42 @@
+[
+    {
+        "id": "ST001",
+        "name": "isa hauwa abdullahi",
+        "age": "20",
+        "gender": "female",
+        "class": "SS3",
+        "score": "90"
+    },
+    {
+        "id": "ST002",
+        "name": "mansur yusuf",
+        "age": "21",
+        "gender": "male",
+        "class": "SS1",
+        "score": "89"
+    },
+    {
+        "id": "ST003",
+        "name": "abdullahi abdulsalim",
+        "age": "35",
+        "gender": "male",
+        "class": "JSS2",
+        "score": "69"
+    },
+    {
+        "id": "ST004",
+        "name": "yusuf faisal",
+        "age": "19",
+        "gender": "male",
+        "class": "SS3",
+        "score": "89"
+    },
+    {
+        "id": "ST005",
+        "name": "sulaiman abdulwahab",
+        "age": "19",
+        "gender": "male",
+        "class": "primary 4",
+        "score": "95"
+    }
+]
